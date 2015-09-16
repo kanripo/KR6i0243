@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:47.053554
+#+DATE: 2015-08-30 20:13:51.111991
 #+TITLE: 修行道地經
 #+PROPERTY: CBETA_ID T15n0606
 #+PROPERTY: ID KR6i0243
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 606
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0243_T_000-0181c>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0243_T_002-0189b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《修行道地經》卷第二¶
+《修行道地經》卷第二¶
 ¶
 西晉三藏竺法護譯¶
 
-6慈品(二)
-:PROPERTIES:
-:head: 慈品第六
-:END:
-¶
+慈品第六¶
 
 #+BEGIN_VERSE
 「　賈人行曠野，
@@ -182,11 +177,7 @@
 #+END_VERSE
 」¶
 
-7除恐怖品(二)
-:PROPERTIES:
-:head: 《修行道地經》除恐怖品第七
-:END:
-¶
+《修行道地經》除恐怖品第七¶
 
 #+BEGIN_VERSE
 「　諸所當覺了，
@@ -259,11 +250,7 @@
 #+END_VERSE
 」¶
 
-8分別相品(二)
-:PROPERTIES:
-:head: 《修行道地經》分別相品第八
-:END:
-¶
+《修行道地經》分別相品第八¶
 
 #+BEGIN_VERSE
 「　本失於寶珠，
@@ -862,7 +849,7 @@
 何謂口癡而心懷冥？不能以善加施於人，亦¶
 不加惡，心亦不念他人善惡，無所增損。所以¶
 者何？無勢力故。譬如火滅以灰覆之，若持枯¶
-草及𤍜牛屎，積著其上手觸足蹈，無所能燒¶
+草及[火*參]牛屎，積著其上手觸足蹈，無所能燒¶
 而不成熟。所以者何？無所堪任。口癡心冥亦¶
 復如是。於是頌曰：¶
 
